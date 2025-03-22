@@ -1,5 +1,7 @@
-
 # 📊 Workforce Analytics Dashboard
+
+### Dashboard Preview
+![Image](https://github.com/user-attachments/assets/97bfff11-c065-4ea2-a79b-1ea3503a0c35)  
 
 ## 🏢 Domain
 **Human Resources (HR) & Workforce Management**  
@@ -7,14 +9,14 @@ This dashboard provides insights into an organization's workforce, covering hiri
 
 ---
 
-## 👥 Viewer
+##  Viewer of Dashboard
 - **HR Managers** – To track workforce growth, hiring trends, and salary distribution.  
 - **Business Executives** – To assess workforce efficiency and cost implications.  
 - **Data Analysts** – To analyze trends and support strategic decision-making.  
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - **Total Headcount:** 161 employees.
 - **Total Hirings in 2023:** 20 new hires.
 - **Average Salary:** Rs 54,231.
@@ -28,7 +30,7 @@ This dashboard provides insights into an organization's workforce, covering hiri
 
 ---
 
-## 🔍 Insights
+##  Insights
 1. **Workforce Growth:**
    - Steady **growth in employee count** from 2017 to 2023, indicating expansion.
 
@@ -52,36 +54,13 @@ This dashboard provides insights into an organization's workforce, covering hiri
 
 ---
 
-## 🛠 Tools Used
-- **Power BI / Tableau / Excel** – For data visualization and dashboard creation.
-- **SQL / Excel Data Analysis** – For data extraction, cleaning, and transformation.
-- **Python / Pandas (if applicable)** – For deeper workforce analytics and trend forecasting.
+##  Tools Used
+- ** Excel** – For data visualization and dashboard creation.
+- ** Excel Data Analysis** – For data extraction, cleaning, and transformation.
 
 ---
 
-## 📷 Dashboard Preview
-![Image](https://github.com/user-attachments/assets/97bfff11-c065-4ea2-a79b-1ea3503a0c35)  
+ 
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/wajahatsiddique)  
 
 ---
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/workforce-analytics-dashboard.git
-   ```
-2. Open the **Power BI/Tableau/Excel file** included in the repository.
-3. Analyze workforce trends and gain actionable insights!
-
----
-
-## 📩 Contact
-For any queries or improvements, feel free to reach out!
-
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-
----
-
-**🔔 Don't forget to ⭐ the repository if you found it useful!**
-
-
