@@ -62,7 +62,7 @@ This dashboard provides insights into an organization's workforce, covering hiri
 ---
 
  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/wajahatsiddique)  
+💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/wajahatsiddique)  
 
 ---
 
